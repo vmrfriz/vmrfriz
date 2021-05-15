@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=vmrfriz&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" align="right">
+
 # Valeriy Grechukha
 
 **Web-developer**<br>
@@ -7,8 +9,6 @@ Russia Federation, Rostov-on-Don<br>
 <br>
 
 ## 💻 Work experience
-
-<img src="https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=vmrfriz&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" align="right">
 
 | Activity | Job place | Duration |
 |-|-|-:|
