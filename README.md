@@ -1,10 +1,12 @@
-<img src="https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=vmrfriz&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" align="right">
+# 👋 Welcome
 
-# Valeriy Grechukha
+I work for the company full-time, and in my spare time I do freelance projects. I am glad to work on an interesting projects :)
 
-**Web-developer**<br>
-Russia Federation, Rostov-on-Don<br>
-24 years old<br>
+🇬🇧 My CV: [download](https://raw.githubusercontent.com/vmrfriz/vmrfriz.github.io/master/data/Candidate_Valeriy_Grechukha_(vmrfriz).pdf)<br>
+🇷🇺 Моё резюме: [скачать](https://raw.githubusercontent.com/vmrfriz/vmrfriz.github.io/master/data/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%20%D0%92%D0%B0%D0%B4%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87%20%D0%93%D1%80%D0%B5%D1%87%D1%83%D1%85%D0%B0.pdf)
+
+Telegram: [@vmrfriz](https://t.me/vmrfriz)<br>
+Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 
 <br>
 
@@ -20,6 +22,8 @@ Russia Federation, Rostov-on-Don<br>
 <br>
 
 ## 🧳 Workflow
+
+<img src="https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=vmrfriz&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" align="right">
 
 **CMS, Frameworks:**
 
@@ -83,10 +87,3 @@ Russia Federation, Rostov-on-Don<br>
 [![Top Langs](https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=vmrfriz&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff)](https://github.com/vmrfriz?tab=repositories)
 [![Top Langs](https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=vmrfriz&layout=compact&show_icons=true&langs_count=20&bg_color=315,D3CCE3,E9E4F0)](https://github.com/vmrfriz?tab=repositories)
 -->
-
-<br>
-
-## ✉️ Contacts
-
-* Telegram: [@vmrfriz](https://t.me/vmrfriz)
-* Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
