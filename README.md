@@ -15,9 +15,10 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 | Activity | Job place | Duration |
 |-|-|-:|
 | System Administrator (Windows) | Executive body | 4 years |
-| Front-end, CMS, Laravel, parsing | Freelance | > 3 years |
-| Business process optimization | LTD, PromTransportSerivce | 1 year |
-| Bitrix Framework developer | LTD, FistBit | > 1 years |
+| Front-end, CMS, Laravel, parsing | Freelance | > 4 years |
+| Business process optimization | PromTransportSerivce, LTD | 1 year |
+| Bitrix Framework developer | FirstBit, LTD | > 1 year |
+| Laravel, server administration | carzaem.ru | > 6 months |
 
 <br>
 
