@@ -15,10 +15,10 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 | Activity | Job place | Duration |
 |-|-|-:|
 | System Administrator (Windows) | Executive body | 4 years |
-| Front-end, CMS, Laravel, parsing | Freelance | > 4 years |
+| Front-end, CMS, Laravel, parsing | Freelance | > 5 years |
 | Business process optimization | PromTransportSerivce, LTD | 1 year |
-| Bitrix Framework developer | FirstBit, LTD | > 1 year |
-| Laravel, server administration | carzaem.ru | > 6 months |
+| Bitrix Framework developer | FirstBit, LTD | 1.5 years |
+| Laravel, server administration | carzaem.ru | > 1 year |
 
 <br>
 
@@ -95,6 +95,8 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 <a href="https://www.nginx.com/" title="Installing and configuring Nginx and Apache"><img src="https://github.com/github/explore/blob/dda8994b8fe441d0d31867d8add48e8924ff15de/topics/nginx/nginx.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://modx.com/" title="MODX"><img src="icons/modx.svg" height="40" /></a>
+&nbsp;
+<a href="https://www.asterisk.org/" title="Asterisk"><img src="icons/asterisk.svg" height="40" /></a>
 
 ----
 
