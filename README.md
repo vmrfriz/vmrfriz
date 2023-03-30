@@ -86,8 +86,6 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 &nbsp;
 <a href="https://symfony.com/" title="Symfony"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/symfony/symfony.png?raw=true" height="40" /></a>
 &nbsp;
-<a href="https://symfony.com/" title="Symfony"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/symfony/symfony.png?raw=true" height="40" /></a>
-&nbsp;
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/python/python.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/" title="Developing an extension for Chrome"><img src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png?raw=true" height="40" /></a>
@@ -99,6 +97,7 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 <a href="https://modx.com/" title="MODX"><img src="icons/modx.svg" height="40" /></a>
 
 **Learning**
+
 <a href="https://go.dev/" title="Golang"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/go/go.png?raw=true" height="40" /></a>
 
 <!--
