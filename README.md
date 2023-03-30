@@ -96,6 +96,8 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 &nbsp;
 <a href="https://modx.com/" title="MODX"><img src="icons/modx.svg" height="40" /></a>
 
+----
+
 **Learning**
 
 <a href="https://go.dev/" title="Golang"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/go/go.png?raw=true" height="40" /></a>
