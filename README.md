@@ -32,8 +32,6 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 &nbsp;
 <a href="https://laravel.com/" title="Laravel"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/laravel/laravel.png?raw=true" height="40" /></a>
 &nbsp;
-<a href="https://modx.com/" title="MODX"><img src="icons/modx.svg" height="40" /></a>
-&nbsp;
 <a href="https://www.1c-bitrix.ru/" title="1C-Bitrix"><img src="icons/1c-bitrix.svg" height="40" /></a>
 &nbsp;
 <a href="https://www.bitrix24.com/" title="Bitrix24"><img src="icons/bitrix24.png" height="40" /></a>
@@ -42,7 +40,9 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 
 **CSS:**
 
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrap.svg" height="40" /></a>
+<a href="https://tailwindcss.com/" title="TailwindCSS"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/tailwind/tailwind.png?raw=true" height="40" /></a>
+&nbsp;
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/bootstrap/bootstrap.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/sass/sass.png?raw=true" height="40" /></a>
 &nbsp;
@@ -52,16 +52,20 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 
 **JavaScript:**
 
+<a href="https://vuejs.org/" title="Vue"><img src="https://raw.githubusercontent.com/github/explore/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/vue/vue.png?raw=true" height="40" /></a>
+&nbsp;
 <a href="https://jquery.com/" title="jQuery"><img src="icons/jquery.svg" height="40" /></a>
 &nbsp;
 <a href="https://babeljs.io/" title="Babel"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/babel/babel.png?raw=true" height="40" /></a>
-&nbsp;
-<a href="https://gulpjs.com/" title="Gulp"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/gulp/gulp.png?raw=true" height="40" /></a>
 
 ----
 
 **Other:**
 
+<a href="https://ubuntu.com/" title="Ubuntu Server"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/ubuntu/ubuntu.png?raw=true" height="40" /></a>
+&nbsp;
+<a href="https://manjaro.org/" title="Manjaro Linux"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/archlinux/archlinux.png?raw=true" height="40" /></a>
+&nbsp;
 <a href="https://en.wikipedia.org/wiki/Command_(computing)" title="Terminal"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/terminal/terminal.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" height="40" /></a>
@@ -74,15 +78,28 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 
 ----
 
-**Learning:**
+**A little experience:**
 
+<a href="https://ru.reactjs.org/" title="Vue"><img src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?raw=true" height="40" /></a>
+&nbsp;
+<a href="https://gulpjs.com/" title="Gulp"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/gulp/gulp.png?raw=true" height="40" /></a>
+&nbsp;
+<a href="https://symfony.com/" title="Symfony"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/symfony/symfony.png?raw=true" height="40" /></a>
+&nbsp;
+<a href="https://symfony.com/" title="Symfony"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/symfony/symfony.png?raw=true" height="40" /></a>
+&nbsp;
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/python/python.png?raw=true" height="40" /></a>
 &nbsp;
-<a href="https://webpack.js.org/" title="Webpack"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/webpack/webpack.png?raw=true" height="40" /></a>
+<a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/" title="Developing an extension for Chrome"><img src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png?raw=true" height="40" /></a>
 &nbsp;
-<a href="https://ru.reactjs.org/" title="React"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/react/react.png?raw=true" height="40" /></a>
+<a href="https://dev.vk.com/" title="VK Mini Apps"><img src="https://github.com/github/explore/blob/dda8994b8fe441d0d31867d8add48e8924ff15de/topics/vk/vk.png?raw=true" height="40" /></a>
 &nbsp;
-<a href="https://www.opencart.com/" title="OpenCart"><img src="icons/opencart.png" height="30" /></a>
+<a href="https://www.nginx.com/" title="Installing and configuring Nginx and Apache"><img src="https://github.com/github/explore/blob/dda8994b8fe441d0d31867d8add48e8924ff15de/topics/nginx/nginx.png?raw=true" height="40" /></a>
+&nbsp;
+<a href="https://modx.com/" title="MODX"><img src="icons/modx.svg" height="40" /></a>
+
+**Learning**
+<a href="https://go.dev/" title="Golang"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/go/go.png?raw=true" height="40" /></a>
 
 <!--
 [![Top Langs](https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=vmrfriz&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff)](https://github.com/vmrfriz?tab=repositories)
