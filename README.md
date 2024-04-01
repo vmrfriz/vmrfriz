@@ -18,7 +18,8 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 | Front-end, CMS, Laravel, parsing | Freelance | > 5 years |
 | Business process optimization | PromTransportSerivce, LTD | 1 year |
 | Bitrix Framework developer | FirstBit, LTD | 1.5 years |
-| Laravel, server administration | carzaem.ru | > 1 year |
+| Laravel, server administration | carzaem.ru | 2.5 years |
+| Laravel | voen.info | from April, 1, 2024 |
 
 <br>
 
