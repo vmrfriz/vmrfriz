@@ -56,8 +56,6 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 <a href="https://vuejs.org/" title="Vue"><img src="https://raw.githubusercontent.com/github/explore/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/vue/vue.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://jquery.com/" title="jQuery"><img src="icons/jquery.svg" height="40" /></a>
-&nbsp;
-<a href="https://babeljs.io/" title="Babel"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/babel/babel.png?raw=true" height="40" /></a>
 
 ----
 
