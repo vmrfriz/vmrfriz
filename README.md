@@ -76,33 +76,29 @@ Email: [v.mrfriz@gmail.com](mailto:v.mrfriz@gmail.com)
 <a href="https://www.mozilla.org/firefox/" title="Firefox"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/firefox/firefox.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-plain.svg" height="40" /></a>
+&nbsp;
+<a href="https://www.nginx.com/" title="Installing and configuring Nginx and Apache"><img src="https://github.com/github/explore/blob/dda8994b8fe441d0d31867d8add48e8924ff15de/topics/nginx/nginx.png?raw=true" height="40" /></a>
+&nbsp;
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/python/python.png?raw=true" height="40" /></a>
 
 ----
 
 **A little experience:**
 
-<a href="https://ru.reactjs.org/" title="Vue"><img src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?raw=true" height="40" /></a>
+<a href="https://ru.reactjs.org/" title="React"><img src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://gulpjs.com/" title="Gulp"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/gulp/gulp.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://symfony.com/" title="Symfony"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/symfony/symfony.png?raw=true" height="40" /></a>
 &nbsp;
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/python/python.png?raw=true" height="40" /></a>
-&nbsp;
 <a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/" title="Developing an extension for Chrome"><img src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png?raw=true" height="40" /></a>
 &nbsp;
 <a href="https://dev.vk.com/" title="VK Mini Apps"><img src="https://github.com/github/explore/blob/dda8994b8fe441d0d31867d8add48e8924ff15de/topics/vk/vk.png?raw=true" height="40" /></a>
 &nbsp;
-<a href="https://www.nginx.com/" title="Installing and configuring Nginx and Apache"><img src="https://github.com/github/explore/blob/dda8994b8fe441d0d31867d8add48e8924ff15de/topics/nginx/nginx.png?raw=true" height="40" /></a>
-&nbsp;
 <a href="https://modx.com/" title="MODX"><img src="icons/modx.svg" height="40" /></a>
 &nbsp;
 <a href="https://www.asterisk.org/" title="Asterisk"><img src="icons/asterisk.svg" height="40" /></a>
-
-----
-
-**Learning**
-
+&nbsp;
 <a href="https://go.dev/" title="Golang"><img src="https://github.com/github/explore/blob/bd6117b16e6379da99b114c4f09f776d80cade6a/topics/go/go.png?raw=true" height="40" /></a>
 
 <!--
